@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- Telegram:  <a hreg="https://t.me/Kobreti74" target="_blank" > https://t.me/Kobreti74 </a>
- Gmail:  <a hreg="mailto:trubitsynwork74@gmail.com" target="_blank" > trubitsynwork74@gmail.com </a>
+ Telegram: [https://t.me/Kobreti74]
+ Gmail:  [trubitsynwork74@gmail.com]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
