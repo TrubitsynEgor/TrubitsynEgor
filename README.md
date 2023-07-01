@@ -4,10 +4,8 @@
 <h3 align="center">And I'm a Front-End Web Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 **Telegram: https://t.me/Kobreti74** <br/>
 **Gmail: trubitsynwork74@gmail.com**
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
