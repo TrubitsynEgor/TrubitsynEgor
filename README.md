@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a hreg="https://t.me/Kobreti74" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="telegram" width="40" height="40"/> <span align="center"> Telegram </span></a>
+ <a hreg="https://t.me/Kobreti74" target="_blank" style="display: flex; align-items: center"> <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="telegram" width="40" height="40"/> <span> Telegram </span></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
