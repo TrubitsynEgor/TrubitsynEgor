@@ -12,12 +12,12 @@
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4ZXvNuyevJy6NK5f0ymrPcqZ1N1Yf0Ws7YxGPhAxgsIKCBrrz50LkW9wp-TYCN0z-Qc&usqp=CAU" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnYblSuPdtfl6Tm39mLS5Fz1SX5thHYSkmM1Fp8NTvDEZerthjm_uZVxItxmloaZs6ew&usqp=CAU" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img2.freepng.ru/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg" alt="javascript" width="80" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img2.freepng.ru/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 <p>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://polyakovdmitriy.ru/wp-content/uploads/2020/09/Getting-Started-with-NextJS.jpg" alt="next-js" width="40" height="40"/>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next-js" width="40" height="40"/>
    </a>
     
 </p>
