@@ -42,3 +42,7 @@ Gmail:  <br/>  trubitsynwork74@gmail.com
 </p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trubitsynegor&show_icons=true&locale=en" alt="trubitsynegor" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trubitsynegor&show_icons=true&locale=en&layout=compact" alt="trubitsynegor" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trubitsynegor&" alt="trubitsynegor" /></p>
