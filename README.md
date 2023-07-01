@@ -7,8 +7,8 @@
   active, adaptable, creative, easy-going, friendly, resourceful and tactful
   </h3>
 <h3 align="center">
-**languages:** <br/>
-  1. Russian (native)
+languages:<br/>
+  1. Russian (native) <br/>
   2. Englich - Intermediate(B1)
 </h3>
 
