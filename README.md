@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Egor!</h1>
 <h3 align="center">And I'm a Front-End Web Developer.</h3>
+<h3 align="center">
+  A little bit about me, I'm <br/>
+  active, adaptable, creative, easy-going, friendly, resourceful and tactful
+  </h3>
+
 
 <h3 align="left">Connect with me:</h3>
 Telegram: <br/> https://t.me/Kobreti74<br/>
