@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Telegram: https://t.me/Kobreti74 <br/>
-Gmail: **trubitsynwork74@gmail.com**
+**Telegram: https://t.me/Kobreti74** <br/>
+**Gmail: trubitsynwork74@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
