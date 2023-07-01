@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  Telegram: [https://t.me/Kobreti74]
- Gmail:  [mailto:trubitsynwork74@gmail.com]
+ Gmail:  trubitsynwork74@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
