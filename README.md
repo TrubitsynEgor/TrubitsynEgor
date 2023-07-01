@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Egor!</h1>
-<h3 align="center">And I'm a Front-End Web Developer.</h3>
-<h3 align="center">
+<h1 >Hi 👋, I'm Egor!</h1>
+<h3 >And I'm a Front-End Web Developer.</h3>
+<h3 >
   A little bit about me, I'm <br/>
   active, adaptable, creative, easy-going, friendly, resourceful and tactful
   </h3>
-<h3 align="center">
+<h3 >
 languages:<br/>
   1. Russian (native) <br/>
   2. Englich - Intermediate(B1)
