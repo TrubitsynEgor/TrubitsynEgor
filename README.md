@@ -6,6 +6,12 @@
   A little bit about me, I'm <br/>
   active, adaptable, creative, easy-going, friendly, resourceful and tactful
   </h3>
+<h3 align="center">
+**languages:** <br/>
+  1. Russian (native)
+  2. Englich - Intermediate(B1)
+</h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
