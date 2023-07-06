@@ -12,8 +12,8 @@ languages:<br/>
   2. Englich - Intermediate(B1)
 </h3>
 
-
-
+<h3 align="left">My website:</h3>
+https://etv-blog-frontend.vercel.app/
 <h3 align="left">Connect with me:</h3>
 Telegram: <br/> https://t.me/Kobreti74<br/>
 Gmail:  <br/>  trubitsynwork74@gmail.com
