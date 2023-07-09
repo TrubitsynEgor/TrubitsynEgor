@@ -16,7 +16,7 @@ languages:<br/>
 https://etv-blog-frontend.vercel.app/
 <h3 align="left">Code Wars:</h3>
 https://www.codewars.com/users/TrubitsynEgor
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacts:</h3>
 Telegram: <br/> https://t.me/Kobreti74<br/>
 Gmail:  <br/>  trubitsynwork74@gmail.com
 
