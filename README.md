@@ -9,7 +9,7 @@
 <h3 >
 languages:<br/>
   1. Russian (native) <br/>
-  2. Englich - Intermediate(B1)
+  2. English - Intermediate(B1)
 </h3>
 
 <h3 align="left">My website:</h3>
