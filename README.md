@@ -31,7 +31,7 @@ Gmail:  <br/>  trubitsynwork74@gmail.com
 <p>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next-js" width="40" height="40"/></a>
-   <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_bS1dmNu--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bohilxedfl6ijlltfyeq.png" alt="react-router" width="90" height="40"/></a>
+   <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://reactrouter.com/splash/v7-badge-2.svg" alt="react-router" width="90" height="40"/></a>
    <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux-toolkit" width="40" height="40"/></a>
    <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="react-hook-form" width="40" height="40"/></a>
 
